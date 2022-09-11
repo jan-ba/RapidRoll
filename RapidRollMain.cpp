@@ -8,7 +8,7 @@
 #include <iostream>
 #include "./play.h"
 
-// Emulate someone typing characters in the terminal
+// Imitate someone typing characters in the terminal
 void writing(std::string_view s) {
   for (unsigned int i = 0; i < s.size(); ++i) {
     std::cout << s[i] << std::flush;
