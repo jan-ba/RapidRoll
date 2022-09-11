@@ -4,11 +4,11 @@ C++-Implementation of the old Nokia mobile game 'Rapid Roll'
 This was a project for the university class 'Programming in C++'.
 
 The game was created and run on LINUX, consider this when trying to compile and execute
-(See Makefile -> install for included packages).
+(See Makefile -> install and LIBRARIES for linked libraries).
 
 OpenGLTerminalManager.* files where created by a tutor for the students to use (see copyright header)
 and modified by me (made alterations include activating the three rgb-channels instead of originally
-only one channel for red).
+only one channel for red colour).
 
 Although making this game was great fun, it is far from perfect in terms of efficiency / performance
 and probably modularity & readability.
