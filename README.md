@@ -14,3 +14,5 @@ Although making this game was great fun, it is probably far from perfect in term
 and modularity & readability.
 
 For a tutorial on how to play RapidRoll, run the Main file and pay attention to text in the terminal ;)
+
+*** A demo video of the game to follow shortly *** 
