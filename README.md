@@ -10,7 +10,7 @@ OpenGLTerminalManager.* files were created by a tutor for the students to use (s
 and modified by me (made alterations include activating the three rgb-channels instead of originally
 only one channel for red colour).
 
-Although making this game was great fun, it is far from perfect in terms of efficiency / performance
-and probably modularity & readability.
+Although making this game was great fun, it is probably far from perfect in terms of efficiency / performance
+and modularity & readability.
 
-For a tutorial on how to play RapidRoll, run the Main file and pay attention to the terminal ;)
+For a tutorial on how to play RapidRoll, run the Main file and pay attention to text in the terminal ;)
