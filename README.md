@@ -25,12 +25,9 @@ This C++ implementation replicates the original experience, bringing back the no
 
 ## Screenshots
 
-*Placeholder for screenshots*
+<img src="./Screenshots/RapidRoll1.png" alt="Screenshot1" width="400"/>
+<img src="./Screenshots/RapidRoll2.png" alt="Screenshot2" width="400"/>
 
-<!--
-![Gameplay Screenshot 1](path/to/screenshot1.png)
-![Gameplay Screenshot 2](path/to/screenshot2.png)
--->
 
 ## Getting Started
 
