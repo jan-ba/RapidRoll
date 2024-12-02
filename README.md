@@ -42,7 +42,7 @@ This C++ implementation replicates the original experience, bringing back the no
   - `libglfw3`
   - `libglfw3-dev`
   - `libfreetype6-dev`
-- (**Google C++ Testing Framework**)[https://github.com/google/googletest/releases]
+- [**Google C++ Testing Framework**](https://github.com/google/googletest/releases)
   
 ### Installation
 
@@ -51,7 +51,7 @@ Install the required libraries using the following command:
 ```bash
 sudo apt-get install libglfw3 libglfw3-dev libfreetype6-dev
 ```
-Install the Google C++ Testing Framework and ensure it is recognised by the compiler. You can refer to the lectures (installation steps)[https://ad-wiki.informatik.uni-freiburg.de/teaching/Manuals/Gtest].
+Install the Google C++ Testing Framework and ensure it is recognised by the compiler. You can refer to the lectures [installation steps](https://ad-wiki.informatik.uni-freiburg.de/teaching/Manuals/Gtest).
 
 ### Building the game
 
